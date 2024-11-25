@@ -1,0 +1,92 @@
+
+ * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;}
+
+
+
+body {
+    background-color: black;
+  
+}
+.card {
+  background-color:rgba(11, 121, 82, 0.782);
+  border-radius: 12px;
+  box-shadow: 8 8px 16px rgba(241, 238, 238, 0.1);
+  width: 90%;
+  padding: 5%;
+  margin: 5% ;
+  position: relative;
+  overflow: hidden;
+}
+
+.card {
+  border: 20px solid black;
+  border-style:hidden;
+  box-shadow: 8 14px 14px rgba(115, 96, 96, 0.613);
+}
+
+  p {
+                font-family: "Nova Square", serif;
+                font-size: 24px;
+
+                color: azure;
+            }
+
+ body {
+
+        margin: 10%;
+        padding: 5%;
+    }
+
+    h1 {
+         font-family: "Nova Square", serif;
+        font-size: 4em;
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+h1 { 
+color:rgba(253, 250, 254, 0.917);
+  text-shadow:
+    1px 1px 1px rgb(4, 3, 3),
+    2px 2px 1px rgb(255, 255, 255);
+}
+
+
+ h2 {
+ font-family: "Orbitron", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        font-size: 2em;
+     
+    }
+        
+ h2 {
+Color:rgba(255, 255, 255, 0.917);
+  text-shadow:
+    1px 1px 1px rgb(0, 0, 0),
+    2px 2px 1px rgb(19, 19, 19);
+}
+
+  .cite {
+       font-family: Arial, Helvetica, sans-serif;
+    }
+
+.container {
+  display:block;
+  justify-content:center;
+  padding:3%;
+  margin:2%;
+}
+
+  body {
+                background-image: url('milkyway.jpg');
+                background-size: cover;
+                background-position: center;
+                background-attachment: fixed;
+                height: 100vh;
+                display: flex;
+                flex-direction: column;
+            }
